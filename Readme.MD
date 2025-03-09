@@ -1,0 +1,1 @@
+This project is done with wagmi react framework on EduChain testnet with Suprabase as database
